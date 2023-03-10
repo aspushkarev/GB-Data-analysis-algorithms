@@ -6,3 +6,4 @@
 4. algo_forest. Алгоритм построения дерева решений;
 5. random_forest. Случайный лес;
 6. ada_boost. Градиентный бустинг (AdaBoost);
+7. K_means. Алгоритм kNN. Алгоритм K-means;
