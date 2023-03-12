@@ -7,3 +7,4 @@
 5. random_forest. Случайный лес;
 6. ada_boost. Градиентный бустинг (AdaBoost);
 7. K_means. Алгоритм kNN. Алгоритм K-means;
+8. data_dimension_reduction. Снижение размеренности данных: PCA, SVD.
